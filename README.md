@@ -28,5 +28,7 @@ Make sure you have properly connected your SH1106 OLED display to the Raspberry 
 
 in this project i use waveshare OLED HAT. Refer to the documentation on https://waveshare.com/wiki/1.3inch_OLED_HAT for detailed instructions on the wiring and setup.
 
+![alt text](https://github.com/sptrheru/Rpi-digital-clock/blob/main/images/rpi-digital-clock.jpg?raw=true)
+
 ## License
 Please note that the code in this repository, as well as the `luma.core` library, may be governed by specific licenses. Check the LICENSE file in the `luma.core` repository for more information on its licensing terms.
